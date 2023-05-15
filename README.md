@@ -1,3 +1,2 @@
 # Elderlycareweb
-
-[a href= "home.html"]
+Click Here -> [Elderly Care](home.html)
